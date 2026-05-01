@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+langchain
+langgraph
+redis
+psycopg2-binary
+faiss-cpu
+pydantic
+requests
